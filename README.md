@@ -1,6 +1,6 @@
 # code-kata
 
-
+```
 code-kata
     │   README.md
     │
@@ -79,3 +79,4 @@ code-kata
         │
         └───__pycache__
                 random.cpython-310.pyc
+```
